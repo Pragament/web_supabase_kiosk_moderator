@@ -1,0 +1,1 @@
+# web_supabase_kiosk_moderator
